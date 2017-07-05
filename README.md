@@ -1,11 +1,8 @@
 #YSEmptyDataDemo
 
-###效果
-![](http://oo6ubxy3u.bkt.clouddn.com/YSEmptyDataView.png)
-
 ###Description
 项目中用到的无数据、无网络情况展示页面， 自己写了一个， 以后备用。
-
+![](http://oo6ubxy3u.bkt.clouddn.com/YSEmptyDataView.png)
 
 
 ###可定制属性(Property)
